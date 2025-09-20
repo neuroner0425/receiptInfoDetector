@@ -1,0 +1,17 @@
+{
+    "storeName":"",
+    "address":"",
+    "phoneNumber":"",
+    "timestamp":"yyyy-MM-dd HH:mm:ss",
+    "paymentMethod":"",
+    "userInformation":"",
+    "itemList":[
+        {
+            "productName":"",
+            "quantity":1,
+            "unitPrice":1000,
+            "subTotal":1000
+        }
+    ],
+    "receiptTotal":0
+}

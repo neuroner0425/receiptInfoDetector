@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+Pillow
+paddleocr
+paddlepaddle
+redis
+celery
+gunicorn
+rapidfuzz>=3.0.0
